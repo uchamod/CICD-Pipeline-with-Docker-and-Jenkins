@@ -1,0 +1,9 @@
+# Version control
+.git
+.gitignore
+
+# Development environment
+node_modules
+
+# Environment variables
+.env
