@@ -1,0 +1,3 @@
+node_moodules
+*.env
+/node_modules/
