@@ -33,4 +33,4 @@ jobs:
         echo "${{ secrets.MONGO_URI }}" > .env
         echo "${{ secrets.JWT_SECRET_CODE }}" > .env
         echo "${{ secrets.UNSPLASH_ACCESS_KEY }}" > .env
-    - run: pm2 restart BackendAPI
+   
